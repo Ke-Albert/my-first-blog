@@ -85,3 +85,14 @@ Views are placed in the view.py file.
 ___
 Till now, we have different pieces in place: the `Post` in `models.py`, we have `post_list` in
 `views.py`, we have `blog/urls.py` in `mysite/urls.py`.
+
+
+# Useful Links
+___
+Developing wonderful websites https://getbootstrap.com
+
+If you want to know more about CSS Selectors https://www.w3schools.com/cssref/css_selectors.php
+
+With many colors to choose https://www.colorpicker.com
+
+Free Online courses https://www.freecodecamp.org/learn/
